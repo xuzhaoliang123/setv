@@ -1,0 +1,2 @@
+AK = "ALTAKM4XAewqxtitZrrlcfAwGf"
+SK= "273e3e8fe2344512b905090fb4441e87"
